@@ -2,8 +2,7 @@
 
 ### 一、项目简介
 
-Yolo_Insulators是一个基于YoloV4的绝缘子目标检测程序，人工智能课程设计作业。
-
+Yolo_Insulators是一个基于YoloV4的绝缘子目标检测程序.
 **依赖**：
 
 - Python3.6
